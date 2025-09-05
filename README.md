@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Motahhareh
 - 👀 I’m interested in Computer Vision 
-- 🌱 I’m currently learning Computer Vision(NLP & ML & DL)
+- 🌱 I’m currently learning Computer Vision(ML & DL)
 
 
 <!---
